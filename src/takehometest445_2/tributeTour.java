@@ -5,6 +5,9 @@ import java.io.*;
 import java.util.Scanner;
 
 public class tributeTour {
+    
+    //The code beyond this point was worked on at 3 AM 
+    //and I honestly have no idea where it came from
     public static int[][] readMat()
     {    
         try    
